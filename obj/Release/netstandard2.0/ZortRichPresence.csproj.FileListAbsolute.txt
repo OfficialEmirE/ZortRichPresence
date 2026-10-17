@@ -1,0 +1,6 @@
+C:\Users\M.Emir\Desktop\Projeler\ZortRichPresence\obj\Release\netstandard2.0\ZortRichPresence.csproj.AssemblyReference.cache
+C:\Users\M.Emir\Desktop\Projeler\ZortRichPresence\obj\Release\netstandard2.0\MyPluginInfo.cs
+C:\Users\M.Emir\Desktop\Projeler\ZortRichPresence\obj\Release\netstandard2.0\ZortRichPresence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M.Emir\Desktop\Projeler\ZortRichPresence\obj\Release\netstandard2.0\ZortRichPresence.AssemblyInfoInputs.cache
+C:\Users\M.Emir\Desktop\Projeler\ZortRichPresence\obj\Release\netstandard2.0\ZortRichPresence.AssemblyInfo.cs
+C:\Users\M.Emir\Desktop\Projeler\ZortRichPresence\obj\Release\netstandard2.0\ZortRichPresence.csproj.CoreCompileInputs.cache
